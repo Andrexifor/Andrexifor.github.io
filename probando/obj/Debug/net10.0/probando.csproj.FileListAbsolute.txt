@@ -1,0 +1,15 @@
+/workspaces/Andrexifor.github.io/probando/bin/Debug/net10.0/probando
+/workspaces/Andrexifor.github.io/probando/bin/Debug/net10.0/probando.deps.json
+/workspaces/Andrexifor.github.io/probando/bin/Debug/net10.0/probando.runtimeconfig.json
+/workspaces/Andrexifor.github.io/probando/bin/Debug/net10.0/probando.dll
+/workspaces/Andrexifor.github.io/probando/bin/Debug/net10.0/probando.pdb
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.AssemblyInfoInputs.cache
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.AssemblyInfo.cs
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.csproj.CoreCompileInputs.cache
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.sourcelink.json
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.dll
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/refint/probando.dll
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.pdb
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/probando.genruntimeconfig.cache
+/workspaces/Andrexifor.github.io/probando/obj/Debug/net10.0/ref/probando.dll
